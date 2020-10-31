@@ -4,7 +4,7 @@ import { Text, StyleSheet } from "react-native";
 const HomeScreen = () => {
   return <Text style={styles.text}>Hi there!!!!</Text>;
 };
-
+console.log
 const styles = StyleSheet.create({
   text: {
     fontSize: 30
